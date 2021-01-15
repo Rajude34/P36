@@ -1,4 +1,4 @@
-//Create variables here
+
 var dog ,dogImg,happyDog,hdImg;
 var foodStock;
 var database;
@@ -9,7 +9,7 @@ var lastFed;
 
 function preload()
 {
-  //load images here
+  
   dogImg = loadImage("images/Dog.png")
   happyDog = loadImage("images/happydog.png")
 }
